@@ -1,0 +1,26 @@
+[
+  {
+    "produto": "Ajax Full-Zip Sweatshirt",
+    "quantidade": 6,
+    "tamanho": "S",
+    "cor": "Red"
+  },
+  {
+    "produto": "Abominable Hoodie",
+    "quantidade": 3,
+    "tamanho": "L",
+    "cor": "Green"
+  },
+  {
+    "produto": "Aether Gym Pant",
+    "quantidade": 4,
+    "tamanho": "34",
+    "cor": "Brown"
+  },
+  {
+    "produto": "Apollo Running Short",
+    "quantidade": 2,
+    "tamanho": "36",
+    "cor": "Black"
+  }
+]

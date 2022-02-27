@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "npx cypress run --browser chrome",
     "cy:open": "npx cypress open",
-    "cy:run": "npx cypress run",
-    "cy:dashboard": "",
-    "cy:report": ""
+    "cy:report": "cypress run --browser chrome --record --key 9f1f22c2-a5c0-4863-9543-7ba34d7453eb",
+    "cy:dashboard": ""
   },
   "repository": {
     "type": "git",
@@ -22,9 +22,10 @@
   },
   "homepage": "",
   "devDependencies": {
-    "cypress": "^8.2.0"
+    "cypress": "^8.7.0"
   },
   "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7",
     "faker": "^5.5.3"
   }
 }
